@@ -24,3 +24,4 @@ This list is not exhaustive, but some of these papers either discuss datasets us
 
 [The value of geophysical data for geothermal exploration: Examples from empirical, field, and synthetic data](https://pubs.geoscienceworld.org/tle/article/39/12/864/592948/The-value-of-geophysical-data-for-geothermal)
 
+[Northwest Volcanic Geothermal Province Studies](https://www.energy.gov/sites/prod/files/2017/12/f46/3_2_Play%20Fairway_USGS_Northwest%20Volcanic%20Geothermal_Presentation.pdf)
