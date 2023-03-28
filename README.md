@@ -5,7 +5,7 @@ Small, notebook based repository to grid and  explore various geothermal dataset
 
 Pandas, Xarray, Verde, Matplotlib, SciPy
 
-# Data sets
+## Data sets
 
 SMU Data [here](http://geothermal.smu.edu/static/DownloadFilesButtonPage.htm)
 
@@ -14,6 +14,8 @@ USGS Gridded Data [here](https://www.sciencebase.gov/catalog/item/63090a9cd34e3b
 Gravity data [here](https://mrdata.usgs.gov/gravity/)
 
 Dataset need: BHT's for all of California would help (Salton Sea is a big hole!)
+
+Any other machine-readable Geothermal datasets would be great. 
 
 # Papers of interest
 This list is not exhaustive, but some of these papers either discuss datasets used or other factors.
