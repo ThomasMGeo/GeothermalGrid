@@ -1,6 +1,9 @@
 # GeothermalGrid
 Small, notebook based repository to grid and  explore various geothermal datasets and products. 
 
+![example of output](https://user-images.githubusercontent.com/38228140/228318868-f3fe17c3-27e8-4d35-b49d-d8ed88b0ad48.png)
+
+
 # Python Packages Used
 
 Pandas, Xarray, Verde, Matplotlib, SciPy, Numpy
